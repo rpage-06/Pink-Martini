@@ -7,6 +7,11 @@
     <p>
       Welcome to what promises to be an exciting and fun semester of Functions and MORE Functions!
     </p>
+
+    <p>
+     This is a second paragraph 
+    </p>
+    </p>
   </introduction>
   <!-- Include chapters -->
   <subsection xml:id="sec-course-info">

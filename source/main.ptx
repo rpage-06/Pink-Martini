@@ -8,7 +8,7 @@
   <book>
     <title>Introduction to Functions</title>
 
-    <subtitle>MATH 123 Spring 2026</subtitle>
+    <subtitle>MATH 123  Spring 2026</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
